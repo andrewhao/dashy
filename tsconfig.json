@@ -17,8 +17,10 @@
     "suppressImplicitAnyIndexErrors": true,
     "noUnusedLocals": true
   },
+  // "filesGlob": ["!./node_modules/**/*.ts"],
+  // "typeRoots": ["@types", "./node_modules/rmwc-typed"],
   // "files": ["node_modules/rmwc-typed/index.d.ts"],
-  // "include": ["src/**/*", "node_modules/rmwc-typed/**/*.ts"],
+  // "include": ["src/**/*"],
   "exclude": [
     "node_modules",
     "build",
